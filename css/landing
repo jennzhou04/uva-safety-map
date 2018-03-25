@@ -1,0 +1,40 @@
+.carrot_down
+{
+  border-style : Solid;
+  border-color : #82A6FF;
+  border-color : rgba(130, 166, 255, 1);
+  border-width : 20px;
+}
+.red1
+{
+  background : #C1272D;
+  background : rgba(193, 39, 45, 1);
+}
+.red2
+{
+  background : #C1272D;
+  background : rgba(193, 39, 45, 1);
+}
+.yellow
+{
+  background : #E1C86E;
+  background : rgba(225, 200, 110, 1);
+}
+.Logo
+{
+  background-image : url(Logo.png);
+  /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
+  background-repeat : no-repeat;
+}
+.Menu
+{
+  background-image : url(Menu.png);
+  /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
+  background-repeat : no-repeat;
+}
+map
+{
+  background-image : url(map.png);
+  /*To create image referenced in CSS, use 'Export Selected CSS' command.*/
+  background-repeat : no-repeat;
+}
